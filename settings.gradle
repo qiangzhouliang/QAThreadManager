@@ -1,0 +1,3 @@
+include ':QAThreadlib'
+include ':app'
+rootProject.name = "QAThreadManager"
